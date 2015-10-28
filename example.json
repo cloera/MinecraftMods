@@ -1,0 +1,15 @@
+{"achievement": {
+  "id": 001,
+  "name": "Getting Wood",
+  "description": "Gather some wood",
+  "type": "enum type"
+  "requirements": {
+    "pickUp": [
+      {"block": "wood", 10},
+      {"block": "oak", 10},
+      {"block": "birch", 10}
+    ]
+  }
+  "assest": "www.urltoasset.com",
+  "completionMsg": "congrats"
+}}    
